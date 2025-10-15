@@ -9,7 +9,8 @@ The user parameters are:
 
 The code computes the horizontal and vertical fractional gradient of the luminance and shows the fractional gradient magnitude computed by the L-infty norm.
 
-![alt text](https://github.com/MichelaLecca/Image-Fractional-Gradient-Computation/example.png)
+![alt text](https://github.com/MichelaLecca/Image-Fractional-Gradient-Computation/blob/example.png)
+
 
 
 The fractional derivatives are computed using the kernels described in [1] (see Section 3.4, "Mask MP2").
