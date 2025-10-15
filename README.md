@@ -11,7 +11,7 @@ The code computes the horizontal and vertical fractional gradient of the luminan
 
 The fractional derivatives are computed using the kernels described in [1] (see Section 3.4, "Mask MP2").
 
-Fractional gradients are widely used for contrast enhancement and the fractional gradient implmeneted here has been used in [2] to enhance backlight images.
+Fractional gradients are widely used for contrast enhancement and the fractional gradient implmeneted here has been used in [2] to enhance bad lighted images.
 
 [1] Ghanbari, Behzad, and Abdon Atangana. "Some new edge detecting techniques based on fractional derivatives with non-local and non-singular kernels." Advances in Difference Equations 2020.1 (2020): 435.
 
