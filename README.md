@@ -9,7 +9,7 @@ The user parameters are:
 
 The code computes the horizontal and vertical fractional gradient of the luminance and shows the fractional gradient magnitude computed by the L-infty norm.
 
-![alt text](https://github.com/MichelaLecca/Image-Fractional-Gradient-Computation/blob/example.png)
+![alt text](https://github.com/MichelaLecca/Image-Fractional-Gradient-Computation/blob/main/example.png)
 
 
 
